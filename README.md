@@ -20,8 +20,10 @@
 
 ### Github Stats:
 
-[![Hades's github stats](https://github-readme-stats.vercel.app/api?username=HadesPTIT&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/HadesPTIT)
+![Hades's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadesPTIT\&rank_icon=github&include_all_commits=true&theme=buefy&count_private=true&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadesPTIT&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/HadesPTIT)
+
+
 
 ### Buy me a coffee
 
